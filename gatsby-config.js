@@ -1,4 +1,13 @@
 module.exports = {
+  siteMetadata: {
+    title: "Gaston Mira | Android dev | Software Engineer",
+    titleTemplate: "Gaston Mira - Android developer from Argentina",
+    description:
+      "Android developer from Mar del Plata, Argentina.",
+    url: "https://gastonmira.dev/",
+    image: "/images/gastonPerfilWeb.jpg",
+    twitterUsername: "@gastonmdq",
+  },
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
