@@ -19,11 +19,6 @@ export default function HTML({
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="title" content="Gaston Mira | Android dev | Software Engineer" />
-        <meta name="titleTemplate" content="Gaston Mira - Android developer from Argentina" />
-        <meta name="description" content="Android developer from Mar del Plata, Argentina." />
-        <meta name="url" content="https://gastonmira.dev/" />
-        <meta name="image" content="/images/gastonPerfilWeb.jpg" />
         {headComponents}
       </head>
       <body {...bodyAttributes}>

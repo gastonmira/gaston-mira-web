@@ -4,14 +4,14 @@ import uuidv1 from 'uuid/v1';
 export const headData = {
   title: 'Gastón Mira | Android dev. | Software Engineer', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
-  description: 'Welcome to my personal web.', // e.g: Welcome to my website
+  description: 'Android developer from Argentina.', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hi! My name is',
   name: 'Gastón Mira',
-  subtitle: 'I\'m an Android developer working at Globant & learning new technologies.',
+  subtitle: 'I\'m an Android developer from Argentina working at Globant & learning new technologies.',
   cta: 'Who Am I?',
 };
 
