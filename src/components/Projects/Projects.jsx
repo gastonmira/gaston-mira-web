@@ -27,7 +27,7 @@ const Projects = () => {
       <Container>
         <div className="project-wrapper">
           <Title title="Projects" />
-          {projects.map((project,index) => {
+          {projects.map((project, index) => {
             const { title, info, info2, url, repo, img } = project;
 
             return (
@@ -53,6 +53,7 @@ const Projects = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--hero"
+                        style={{ display: 'none' }}
                         href={url || '#!'}
                       >
                         See Live
@@ -112,7 +113,7 @@ const Projects = () => {
           })}
         </div>
       </Container>
-    </section>
+    </section >
   );
 };
 

@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'globant.jpg',
+    title: 'Work done in Globant',
+    info: 'I\'ve worked in several projects in different industries. From banks, supermarkets to cruise ships industries. Leading teams, planning & estimating. Also giving feedback and doing performance assessments.',
+    info2: 'Gatekeeper leading interviews for candidates. Always learning last updates and tools for Android development.',
+    url: 'https://www.globant.com/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv1(),
+    img: 'androidlogo.jpg',
+    title: 'Proficient In',
+    info: 'Android - Management - Kotlin - MVP - MVVM - Clean Architecture - Design Patterns - Gradle - Retrofit - XML - Unit testing - RxJava - Git - Android Studio - Scrum methodologies - Kanban - Java',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv1(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'gastonmiraDev.png',
+    title: 'gastonmira.dev',
+    info: 'My website is part of the first of more personal side projects in order to learn new technologies.',
+    info2: 'This project gave me an idea idea of how to develop in React using Gatsby. The next steps are to learn NodeJS & microservices and improving my Android knowledge. ',
+    url: 'https://gastonmira.dev/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
@@ -79,6 +79,11 @@ export const footerData = {
       id: uuidv1(),
       name: 'github',
       url: 'https://github.com/gastonmira',
+    },
+    {
+      id: uuidv1(),
+      name: 'twitch',
+      url: 'https://www.twitch.tv/gastonmdq',
     },
   ],
 };
