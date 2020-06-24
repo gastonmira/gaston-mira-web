@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'gastonPerfilWeb.jpg',
   paragraphOne: 'I\'m a Systems Engineer, with more than 7 years of experience within one of the most prestigious companies in Argentina. I\'ve done tasks as a web developer, to then focus on the development of mobile applications. I was part of onsite teams for several project discoveries.',
-  paragraphTwo: 'At present, I stand out for leading teams, accompanying them for their development and continuous improvement, carrying out Android projects under his charge. Among my tasks are the estimation and planning of the projects in conjunction with the product owners and delivery leads.',
+  paragraphTwo: 'At the moment, I stand out for leading teams, accompanying them for their development and continuous improvement, delivering Android apps. Among my tasks are the estimation and planning of the projects in conjunction with the product owners and delivery leads.',
   paragraphThree: 'Making decisions regarding the architecture and design of the applications, to carry out the development of the same optimizing resources and guiding the team towards the fulfillment of objectives.',
   resume: 'https://www.linkedin.com/in/gastonmira/?locale=en_US', // if no resume, the button will not show up
 };
@@ -30,8 +30,8 @@ export const projectsData = [
     id: uuidv1(),
     img: 'globant.jpg',
     title: 'Work done in Globant',
-    info: 'I\'ve worked in several projects in different industries. From banks, supermarkets to cruise ships industries. Leading teams, planning & estimating. Also giving feedback and doing performance assessments.',
-    info2: 'Gatekeeper leading interviews for candidates. Always learning last updates and tools for Android development.',
+    info: 'I\'ve worked on several projects in different industries. From banks, supermarkets to cruise ships industries. Leading teams, planning & estimating. Also giving feedback and doing performance assessments. At the moment, modularizing features in native to integrate with React Native project.',
+    info2: 'Gatekeeper leading interviews for candidates. Experience working on-site & daily communication with clients. Always learning last updates and tools for Android development.',
     url: 'https://www.globant.com/',
     repo: '', // if no repo, the button will not show up
   },
@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'androidlogo.jpg',
     title: 'Proficient In',
     info: 'Android - Management - Kotlin - MVP - MVVM - Clean Architecture - Design Patterns - Gradle - Retrofit - XML - Unit testing - RxJava - Git - Android Studio - Scrum methodologies - Kanban - Java',
-    info2: '',
+    info2: 'Learning: React Native - React',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
