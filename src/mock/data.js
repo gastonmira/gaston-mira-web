@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hello! My name is',
   name: 'Gastón Mira',
   subtitle: "I'm a software engineer from Argentina working at Ualá & living like a day at a time.",
-  cta: 'Who Am I?',
+  cta: 'Want to read my blog?',
 };
 
 // ABOUT DATA
