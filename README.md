@@ -7,6 +7,7 @@ Using [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) ⚡️
 ### Version 1.0.2
 
 - Updated information about me :)
+- Testing Continuous deployment with cPanel & Git Version Control.
 
 ### Version 1.0.1
 
