@@ -2,7 +2,7 @@ import uuidv1 from 'uuid/v1';
 
 // HEAD DATA
 export const headData = {
-  title: 'Gastón Mira | Android dev. | Software Engineer', // e.g: 'Name | Developer'
+  title: 'Gastón Mira | Software Engineer | Manager', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Software Engineer from Argentina.', // e.g: Welcome to my website
 };
