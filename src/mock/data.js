@@ -70,6 +70,17 @@ export const projectsData = [
     url: 'https://gastonmira.dev/',
     repo: '', // if no repo, the button will not show up
   },
+  {
+    id: uuidv1(),
+    img: 'podcast-logo.png',
+    title: 'Podcast - Código Comentado',
+    info:
+      'I co-host a podcast in Spansih with Facundo Rodriguez Arceri. Here we talk about technology & software development.',
+    info2:
+      '',
+    url: 'https://open.spotify.com/show/0BgtshZ0rq2uARSa0uU9q2?si=3QUH_q-uR0ynEEt2xzRMyQ',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
@@ -101,6 +112,11 @@ export const footerData = {
       id: uuidv1(),
       name: 'twitch',
       url: 'https://www.twitch.tv/gastonmdq',
+    },
+    {
+      id: uuidv1(),
+      name: 'spotify',
+      url: 'https://open.spotify.com/show/0BgtshZ0rq2uARSa0uU9q2?si=3QUH_q-uR0ynEEt2xzRMyQ',
     },
   ],
 };
