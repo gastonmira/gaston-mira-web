@@ -73,7 +73,7 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'podcast-logo.png',
-    title: 'Podcast - Código Comentado',
+    title: 'Podcast - Código Comentado. Test',
     info:
       'I co-host a podcast in Spansih with Facundo Rodriguez Arceri. Here we talk about technology & software development.',
     info2:
