@@ -1,6 +1,7 @@
 # My personal web site (old version)
 
 This repository is deprecated
+
 Using [Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) ⚡️
 
 ## Live in https://gastonmira.dev/
